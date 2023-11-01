@@ -6,6 +6,9 @@ class Solution {
             if (arr[i] == 0) {
                 resultNums[j] = arr[i];
                 j++;
+                if (j == arr.length) {
+                    break;
+                }
                 resultNums[j] = 0;
                 j++;
             } else {
@@ -16,6 +19,8 @@ class Solution {
                 break;
             }
         }
-        arr = resultNums;
+        for(int i = 0; i<arr.length;i++){
+            arr[i]=resultNums[i];
+        }
     }
 }
