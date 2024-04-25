@@ -1,4 +1,4 @@
-# Java LeetCode Solved Problems
+# [Java LeetCode Solved Problems](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/679/sql-syntax/4358/)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/selintopcu?theme=dark&font=Plus%20Jakarta%20Sans&ext=heatmap)
 
 # Explore Card Track
